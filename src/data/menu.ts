@@ -91,6 +91,9 @@ const manualProductImages: Record<string, string> = {
     "Ягодный лимонад": "https://images.unsplash.com/photo-1754594537133-796eb54f206c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2340",
 }
 
+const fallbackMenuImage =
+    "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=1200"
+
 function createProduct(
     name: string,
     price: number,
@@ -463,6 +466,194 @@ const baseMenu: Category[] = [
                     createProduct("Тирамису фисташка", 3000),
                     createProduct("Панна-котта", 2550),
                     createProduct('Павлова', 2750),
+                ],
+            },
+        ],
+    },
+    {
+        id: crypto.randomUUID(),
+        name: "Салаты",
+        subcategories: [
+            {
+                id: crypto.randomUUID(),
+                name: "Салаты",
+                products: [
+                    createProduct("Хрустящие баклажаны", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("С рукколой, креветками и кремом из авокадо", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Микс-салат с запечёнными овощами с твороженным сыром и апельсином", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Теплый салат из телятины", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("«Цезарь» с курицей", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("«Цезарь» с лососем", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Салат из свежих овощей", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                ],
+            },
+        ],
+    },
+    {
+        id: crypto.randomUUID(),
+        name: "Закуски",
+        subcategories: [
+            {
+                id: crypto.randomUUID(),
+                name: "Закуски",
+                products: [
+                    createProduct("Крылья с соусом BBQ", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct(
+                        "Колбаски с капустой и горчицей в ассортименте (говядина, баранина, конина, курица)",
+                        0,
+                        { priceLabel: "—", available: false, image: fallbackMenuImage }
+                    ),
+                    createProduct("Лосось собственного посола с манго и авокадо", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Креветки жаренные в пикантном соусе", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Мидии в створках под сливочным соусом", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct(
+                        "Сет к пенному (креветки, баранье семечки, луковые кольца, кольца кальмара, чесночные гренки, чечил жареный, мини чебуреки, сырные палочки, 3 соуса) на компанию 5-6 чел",
+                        0,
+                        { priceLabel: "—", available: false, image: fallbackMenuImage }
+                    ),
+                    createProduct("Мини сет к пенному (на 2 человека)", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                ],
+            },
+        ],
+    },
+    {
+        id: crypto.randomUUID(),
+        name: "Супы",
+        subcategories: [
+            {
+                id: crypto.randomUUID(),
+                name: "Супы",
+                products: [
+                    createProduct("Том-ям с морепродуктами", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Рамен (говядина, курица)", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Солянка сборная мясная", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Крем-суп чечевичный с гренками и зеленым маслом", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Крем-суп «Капучино» грибной с эспума из сливок", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                ],
+            },
+        ],
+    },
+    {
+        id: crypto.randomUUID(),
+        name: "Вторые блюда",
+        subcategories: [
+            {
+                id: crypto.randomUUID(),
+                name: "Вторые блюда",
+                products: [
+                    createProduct("Стейк из лосося (соус, лимон, маслины)", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Рибай (микс салата, жареные черри, соус)", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Ростбиф с клюквенным соусом", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Феттучини с морепродуктами", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Карбонара", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Паста «Альфредо»", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Пад тай (рис, овощи, говядина)", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Вок удон (курица, говядина)", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
+                    createProduct("Манты рубленые", 0, {
+                        priceLabel: "—",
+                        available: false,
+                        image: fallbackMenuImage,
+                    }),
                 ],
             },
         ],
