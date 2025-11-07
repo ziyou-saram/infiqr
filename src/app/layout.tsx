@@ -14,9 +14,60 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 })
 
+const siteUrlInput = process.env.NEXT_PUBLIC_APP_URL ?? "https://infiqr.vercel.app"
+const siteUrl = siteUrlInput.startsWith("http") ? siteUrlInput : `https://${siteUrlInput}`
+const siteName = "INFIQR"
+const siteDescription =
+  "Цифровое меню INFIQR — удобный способ быстро изучить ассортимент бара: кофе, напитки, алкоголь и авторские блюда."
+
 export const metadata: Metadata = {
-  title: "Infiqr Menu",
-  description: "Digital menu experience",
+  metadataBase: new URL(siteUrl),
+  title: {
+    default: `${siteName} · Меню`,
+    template: `%s · ${siteName}`,
+  },
+  description: siteDescription,
+  keywords: [
+    "INFIQR",
+    "infiqr",
+    "меню",
+    "бар",
+    "кофе",
+    "напитки",
+    "алкоголь",
+    "десерты",
+    "цифровое меню",
+  ],
+  openGraph: {
+    type: "website",
+    url: siteUrl,
+    siteName,
+    title: `${siteName} · Цифровое меню`,
+    description: siteDescription,
+    images: [
+      {
+        url: "/infiLogo.svg",
+        width: 230,
+        height: 187,
+        alt: "INFIQR",
+      },
+    ],
+    locale: "ru_RU",
+  },
+  twitter: {
+    card: "summary_large_image",
+    site: "@infiqr",
+    creator: "@infiqr",
+    title: `${siteName} · Цифровое меню`,
+    description: siteDescription,
+    images: ["/infiLogo.svg"],
+  },
+  authors: [{ name: "INFIQR" }],
+  icons: {
+    icon: "/infiLogo.svg",
+    shortcut: "/infiLogo.svg",
+    apple: "/infiLogo.svg",
+  },
 }
 
 export default function RootLayout({
