@@ -89,6 +89,8 @@ const manualProductImages: Record<string, string> = {
     "Эспрессо Тоник": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Ok06Pr24o4GN8RfBS9kRfjhVES0Zmwp-Nw&s",
     "Ягодный": "https://e52e3ee2-628b-49a9-9e26-e5a61fd72b20.selcdn.net/upload/resize_cache/iblock/35e/1920_1080_1/ЯГОДНЫЙ%20ЧАЙ.jpg",
     "Ягодный лимонад": "https://images.unsplash.com/photo-1754594537133-796eb54f206c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2340",
+    "Кесадилья с курицей": "https://nasha.severnaya.ru/upload/iblock/7f2/8gmobweyxbhm2v1ierwerm4m7327nsxc.jpg",
+    "Клаб сэндвич с курицей": "https://cdnn21.img.ria.ru/images/07e9/02/0e/1999408821_0:0:3072:1728_1920x0_80_0_0_ee6beb282d3084c50ee494a3b3c46580.jpg"
 }
 
 const fallbackMenuImage =

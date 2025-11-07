@@ -111,7 +111,9 @@ const staticImageHosts = [
     "img.iamcook.ru",
     "www.osteria.ru",
     "www.redber.co.uk",
-    "cheezu.ru"
+    "cheezu.ru",
+    "nasha.severnaya.ru",
+    "cdnn21.img.ria.ru"
 ]
 
 const envHostnames =
