@@ -1,0 +1,423 @@
+Наименование: Вино (бут.)
+Картинка: 
+Цена: 
+
+Наименование: Ром(50мл)
+Картинка: 
+Цена: 
+
+Наименование: Милкшейк
+Картинка: 
+Цена: 
+
+Наименование: Niko Pirosmani Киндзмараули кр.п/сл
+Картинка: https://winexpert.kz/374-large_default/пиросмани-.jpg
+Цена: 
+
+Наименование: Havana club 3YO
+Картинка: https://www.thetipplecellar.com/image_resize/back/w1500/products/4194/4275670276.png
+Цена: 1690
+
+Наименование: Ванильный/шоколадный/клубничный
+Картинка: Ванильный ( https://images.unsplash.com/photo-1648580967100-436583074ea0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1760), шоколадный (https://images.unsplash.com/photo-1572490122747-3968b75cc699?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1287), клубничный (https://images.unsplash.com/photo-1579954115545-a95591f28bfc?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2340)
+Цена: 
+
+Наименование: Jacob's Creek Shiraz Cabernet кр.п/сух
+Картинка: https://images.deliveryhero.io/image/darkstores/hk/QX817K.jpg?height=480
+Цена: 
+
+Наименование: Bacardi Carta Blanca/Negra
+Картинка: https://elitclub.kz/upload/images/18288_108412_14.jpg
+Цена: 1890
+
+Наименование: Лимонад (1л)
+Картинка: https://images.unsplash.com/photo-1754594537133-796eb54f206c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2340
+Цена: 
+
+Наименование: Pavao Loureiro б.п/сух
+Картинка: https://elitclub.kz/upload/images/30376_141287_14.jpg
+Цена: 
+
+Наименование: Джин
+Картинка: https://dyj6gt4964deb.cloudfront.net/images/a96cbdee-46ca-444f-856c-79cac2020aee.jpeg
+Цена: 
+
+Наименование: Brancott Estate Pinot Noir кр.сух
+Картинка: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4p7-s2l_RBrIsDdkrYdpydHS7-EteTkF3JQ&s
+Цена: 18000
+
+Наименование: Beefeater
+Картинка: https://www.pernod-ricard.com/sites/default/files/styles/brand_tile_3_in_row_desktop_958x1048_/public/2021-05/Beefeater_KV_958x1048_0.jpg.jpg?itok=Oc4MUxL3
+Цена: 1700
+
+Наименование: Ягодный
+Картинка: https://www.pernod-ricard.com/sites/default/files/styles/brand_tile_3_in_row_desktop_958x1048_/public/2021-05/Beefeater_KV_958x1048_0.jpg.jpg?itok=Oc4MUxL3
+Цена: 3000
+
+Наименование: Campo Viejo Blanco б.сух
+Картинка: https://elitclub.kz/upload/images/91231_964060_14.jpg
+Цена: 14000
+
+Наименование: Пиво Бутылочное
+Картинка: 
+Цена: 
+
+Наименование: Манго/маракуйя
+Картинка: 
+Цена: 3000
+
+Наименование: Campo Viejo Rose
+Картинка: https://ndddistribution.com/inc/i04/media/u3/1702484096894.jpg
+Цена: 15000
+
+Наименование: Budweiser Budvar
+Картинка: https://diceys.com/wp-content/uploads/2020/11/Budejovicky-Budvar.jpg
+Цена: 2500
+
+Наименование: Киви/лайм
+Картинка: 
+Цена: 3000
+
+Наименование: Jacob's Creek Classic Chardonnay б.сух
+Картинка: https://elitclub.kz/upload/images/18777_584320_14.jpg
+Цена: 12000
+
+Наименование: Miller 0,5
+Картинка: https://elitclub.kz/upload/images/54679_474731_14.jpeg
+Цена: 1800
+
+Наименование: Коктейли алкогольные
+Картинка: 
+Цена: 
+
+Наименование: Игристое вино
+Картинка: 
+Цена: 
+
+Наименование: Corona  Extra 0,355
+Картинка: https://alcomag.kz/assets/2020/10/11/17/30/2020_10_11_17_30_21_.jpg
+Цена: 2500
+
+Наименование: Lambrusco Bianco/ Rossato
+Картинка: https://winexpert.kz/48-large_default/lambrusco-rose-di-bacco-bianco-ламбруско-розе-ди-бакко-бьянко.jpg
+Цена: 
+
+Наименование: Heineken
+Картинка: https://elitclub.kz/upload/images/11333_134586_14.jpeg
+Цена: 2000
+
+Наименование: Prosecco Martini
+Картинка: https://en.excaliburshop.com/uploads/item/12961/template/108/images/0-martini-prosecco-rose-11-5-obj-0-75-l-170224-martiniproseccorose.jpg
+Цена: 
+
+Наименование: Guiness Draught
+Картинка: https://static.insales-cdn.com/r/UfN91YI07Sk/rs:fit:1000:0:1/q:100/plain/images/products/1/2477/1004513709/5000213101872.jpg@jpg
+Цена: 2600
+
+Наименование: Asti Martini Ice/ Rose
+Картинка: https://elitclub.kz/upload/images/83286_6081_09.jpeg
+Цена: 
+
+Наименование: Kozel
+Картинка: https://cdn11.bigcommerce.com/s-55de4/images/stencil/original/products/3884/10717/Koze__06834.1757573163.jpg?c=2
+Цена: 2600
+
+Наименование: Café de Paris Brut/Rose
+Картинка: https://provencerose.com/cdn/shop/files/CafedeParisbrutrose-old.png?v=1753997884
+Цена: 16500
+
+Наименование: Виски (50мл)
+Картинка: 
+Цена: 
+
+Наименование: Кофе (0,25, 0,35 мл )
+Картинка: 
+Цена: 
+
+Наименование: Ballantine`s Finest 3 YO
+Картинка: Ballantine`s Finest 3 YO
+Цена: 1900
+
+Наименование: Американо
+Картинка: https://www.gourmetkava.cz/modules/ph_simpleblog/featured/82.jpg
+Цена: 990
+
+Наименование: Jameson
+Картинка: https://tootapp.kz/wp-content/uploads/2023/12/312123-816.png
+Цена: 2300
+
+Наименование: Эспрессо
+Картинка: https://www.tasteofhome.com/wp-content/uploads/2023/03/TOH-espresso-GettyImages-1291298315-JVcrop.jpg?fit=700,467
+Цена: 790
+
+Наименование: Chivas Regal 12YO
+Картинка: https://elitclub.kz/upload/images/37801_307340_14.jpg
+Цена: 3400
+
+Наименование: Эспрессо Тоник
+Картинка: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Ok06Pr24o4GN8RfBS9kRfjhVES0Zmwp-Nw&s
+Цена: 1690
+
+Наименование: Chivas Regal 18YO
+Картинка: https://m.media-amazon.com/images/I/71Ig+3pzW0L.jpg
+Цена: 4700
+
+Наименование: Капучино
+Картинка: https://recettes.vedrenne.fr/1269-large_default/gingerbread-cappuccino.jpg
+Цена: 1290
+
+Наименование: Glelivet Reserve
+Картинка: https://static.insales-cdn.com/r/SR9XLCTVFeY/rs:fit:1000:0:1/q:100/plain/images/products/1/5042/1014420402/img_products_kk.webp@webp
+Цена: 4100
+
+Наименование: Латте
+Картинка: https://cornercoffeestore.com/wp-content/uploads/2020/01/how-to-make-a-latte-at-home.jpg
+Цена: 1390
+
+Наименование: Соки (0,25/1л)
+Картинка: 
+Цена: 
+
+Наименование: Glelivet 12YO
+Картинка: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qs5Y-Q-j00b5NBhEzqo5ziMXTO4i6PwH5A&s
+Цена: 4500
+
+Наименование: Айс Капучино
+Картинка: https://images.ctfassets.net/v601h1fyjgba/1eje3eJjFrd8FkYxT2jniv/1bd8c902f5e48d95fdd3183c9993ed04/Lite_Iced_Cappuccino_Hi__1_.jpg
+Цена: 1290
+
+Наименование: Сок яблоко/апельсин/вишня/ананас
+Картинка: 
+Цена: 900/2000
+
+Наименование: Водка (50мл)
+Картинка: 
+Цена: 
+
+Наименование: Айс Латте
+Картинка: https://images.ctfassets.net/v601h1fyjgba/1eje3eJjFrd8FkYxT2jniv/1bd8c902f5e48d95fdd3183c9993ed04/Lite_Iced_Cappuccino_Hi__1_.jpg
+Цена: 1390
+
+Наименование: Вода и напитки (0,25,0,5)
+Картинка: 
+Цена: 
+
+Наименование: Кызылжар 50мл
+Картинка: https://elitclub.kz/upload/images/37498_380255_09.jpeg
+Цена: 1100
+
+Наименование: Фраппучино
+Картинка: https://lonegoosebakery.com/wp-content/uploads/2025/04/main-caramel-frappuccino-image-500x375.jpg
+Цена: 1790
+
+Наименование: Минеральная вода б/г,  с/г
+Картинка: https://img.fix-price.kz/insecure/rs:fit:800:800/plain/bit/_marketplace/images/origin/8c/8cbda56efbf843888fdf8d3bbf7f908e.jpg
+Цена: 600
+
+Наименование: Absolut Blue 50мл
+Картинка: https://static.insales-cdn.com/images/products/1/7075/988969891/img_products_absolut-vodka-500ml-scaled.webp
+Цена: 1500
+
+Наименование: Флэт Уайт
+Картинка: https://methodicalcoffee.com/cdn/shop/articles/Flat_white_sitting_on_a_table_af78d6b5-75ea-4f88-bec7-6505412042f8.jpg?v=1761756646&width=1200
+Цена: 1390
+
+Наименование: Gray Goose 50мл
+Картинка: https://www.craftginclub.co.uk/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fcgc-web%2FOTc0MDZmYTQtZmJmMC00ZmY5LWE4NWQtMDM0NjM0MTg4Nzdj_greygoosevodka.jpg%3Fauto%3Dcompress%2Cformat%26rect%3D0%2C0%2C640%2C400%26w%3D640%26h%3D400&w=2058&q=75
+Цена: 
+
+Наименование: Раф
+Картинка: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolIAZ9NHmQ5bDhzR_XC_nGyFcKpcQVNj7HA&s
+Цена: 1390
+
+Наименование: Боржоми
+Картинка: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Borjomi_1%2C0L.tif/lossy-page1-847px-Borjomi_1%2C0L.tif.jpg
+Цена: 1600
+
+Наименование: Вермуты (100мл)
+Картинка: 
+Цена: 
+
+Наименование: Сироп в ассорт.
+Картинка: https://www.redber.co.uk/cdn/shop/products/simply-syrups-coffee-standard-caramel-vanilla-hazelnut-3x-1L.jpg?v=1655364356&width=1200
+Цена: 150
+
+Наименование: Coca-cola/Sprite/Fanta
+Картинка: Coca-cola (https://upload.wikimedia.org/wikipedia/commons/2/27/Coca_Cola_Flasche_-_Original_Taste.jpg), Sprite (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRidImpP0sjnWMb2n1MVnxFVJ96KuhUy28iVw&s), Fanta (https://elitclub.kz/upload/images/58139_498260_14.jpg)
+Цена: 1200
+
+Наименование: Martini Bianсo
+Картинка: https://alcomag.kz/assets/2020/10/11/17/15/2020_10_11_17_15_31_.jpg
+Цена: 
+
+Наименование: Чай (0,25/0,7)
+Картинка: 
+Цена: 
+
+Наименование: Red-bull
+Картинка: https://images.albertsons-media.com/is/image/ABS/108102209-C1N1?$ng-ecom-pdp-desktop$&defaultImage=Not_Available
+Цена: 1500
+
+Наименование: Коньяк (50мл)
+Картинка: 
+Цена: 
+
+Наименование: Черный
+Картинка: https://cdn.shopify.com/s/files/1/0022/1393/7252/articles/Benefits-of-Drinking-Black-Tea-thumbnail.jpg?v=1660832924
+Цена: 300/800
+
+Наименование: Shweppes
+Картинка: https://www.coca-cola.com/content/dam/onexp/in/en/brands/schweppes/schweppes_range_shot_updated.png
+Цена: 1300
+
+Наименование: Казахстан 3YO 50мл
+Картинка: https://luxalcomarket.kz/assets/images/products/4870044001310.jpg
+Цена: 1400
+
+Наименование: Зеленый
+Картинка: https://admin.newtea.ua/files/styles/blog_mobile_webp/public/blog/zeleniy-chay-korist-dlya-shkiri.png.webp?itok=3wZ79aHX
+Цена: 300/800
+
+Наименование: Арарат 3YO 50мл
+Картинка: https://static.insales-cdn.com/images/products/1/3443/988654963/img_products_ararat-3yo-500ml.webp
+Цена: 1400
+
+Наименование: Марокканский
+Картинка: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkYdTbWrog9WpGh1d0sF8ETSkA4HbLY8-_nw&s
+Цена: 2200
+
+Наименование: Арарат 5YO 50мл
+Картинка: https://static.insales-cdn.com/images/products/1/3703/988655223/img_products_ararat-5yo-500ml-1.webp
+Цена: 1600
+
+Наименование: Ташкентский
+Картинка: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSasOXgOrrJXGeyyJ5Gkiw31x9FFx1e-MNd0A&s
+Цена: 2200
+
+Наименование: Martell V.S
+Картинка: https://elitclub.kz/upload/images/26061_877885_04.jpg
+Цена: 3300
+
+Наименование: Малина-имбирь
+Картинка: https://www.osteria.ru/upload/resize_cache/webp/iblock/141/bgq3pmpdndwzqr14cokqszbrkkpedg6d/малина%20имбирь%20копия.webp
+Цена: 2200
+
+Наименование: К Чаю
+Картинка: 
+Цена: 
+
+Наименование: Облепиха-апельсин
+Картинка: https://img.iamcook.ru/2023/upl/recipes/cat/u-c3107a8569884c21b5c4efb758e4c0c7.jpg
+Цена: 2200
+
+Наименование: Шоколад мини
+Картинка: 
+Цена: 
+
+Наименование: Текила (50мл)
+Картинка: 
+Цена: 
+
+Наименование: Ягодный
+Картинка: https://e52e3ee2-628b-49a9-9e26-e5a61fd72b20.selcdn.net/upload/resize_cache/iblock/35e/1920_1080_1/ЯГОДНЫЙ%20ЧАЙ.jpg
+Цена: 2200
+
+Наименование: Печенье Chunky
+Картинка: https://api.technodom.kz/f3/api/v1/images/800/800/af_68f1e8f7295e61b0041841fa06fbebdf.jpg
+Цена: 
+
+Наименование: Olmeca Blanco, Gold
+Картинка: https://static.insales-cdn.com/r/mLP40axvMtg/rs:fit:1000:0:1/q:100/plain/images/products/1/1921/2035287937/72848_381689_14.jpg@jpg
+Цена: 1800
+
+Наименование: Чай с тары
+Картинка: https://avatars.mds.yandex.net/i?id=8ca3d25ddd01ae3c06112af17f7b386910f57b64-10153545-images-thumbs&n=13
+Цена: 2200
+
+Наименование: Шоколад плитка Казахстан
+Картинка: https://kalam.kz/upload/iblock/e4e/hxy5zapcaovtmybhqao10kfl1t2ij40w/kalam_kz_shokolad_rakhat_100gr_kazakhstanskiy_plitka.png
+Цена: 
+
+Наименование: К пиву
+Картинка: 
+Цена: 
+
+Наименование: молоко
+Картинка: https://syromaniya.ru/upload/iblock/947/uzewxab5phe3iwkn2b79af7vypbqfhsd/Без%20имени-1.jpg
+Цена: 200
+
+Наименование: Шоколад плитка Alpin Gold
+Картинка: https://img.fix-price.kz/insecure/rs:fit:800:800/plain/bit/_marketplace/images/origin/da/da65c62260b922970a46a65c13bd8977.jpg
+Цена: 
+
+Наименование: Арахис
+Картинка: https://cdnn21.img.ria.ru/images/07e5/03/0b/1600796096_437:0:1717:1280_1920x0_80_0_0_9d1ced8bf7b0e3a8faeea1794d590a27.jpg
+Цена: 1400
+
+Наименование: лимон
+Картинка: https://images.gastronom.ru/XctNomD4T0ZvEooL-1Val5vxtQnZ8pSb7KbQLde11mQ/pr:product-preview-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzLzcxNWU0MDk3LWE3M2MtNGFhMS1hZTI2LWU5YzkxNGZlNTNhZC5qcGc.webp
+Цена: 200
+
+Наименование: Шоколад плитка Рахат Perfection
+Картинка: https://www.rakhat.kz/app/uploads/cache/2022/08/Rahat-80-Perfectio100g400h300-800x600-c-default.jpg
+Цена: 
+
+Наименование: Фисташки
+Картинка: https://minio.clevermart.kz/food/images/2022/5/17/3e80820b-e53d-480e-afb9-33a475b0ee50/M_2103666_1.jpg
+Цена: 1400
+
+Наименование: мед
+Картинка: https://qwintry.store/images/ck/photo-1587049352851-8d4e89133924_1627053828.jpg
+Цена: 200
+
+Наименование: Чечел
+Картинка: https://static.wixstatic.com/media/a4c9ad_cda668a88b0241c8837374aeab4f602e~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85,enc_avif,quality_auto/a4c9ad_cda668a88b0241c8837374aeab4f602e~mv2.png
+Цена: 1400
+
+Наименование: Чипсы Lay's
+Картинка: https://arbuz.kz/image/s3/arbuz-kz-products/image__266836-chipsy_lays_riflenye_lobster_140_g.jpg?_c=1760617929
+Цена: 1400
+
+Наименование: Выпечка
+Картинка: 
+Цена: 
+
+Наименование: Клаб сендвич
+Картинка: https://burninghut.ru/wp-content/uploads/2025/01/s-5.jpeg
+Цена: 1950
+
+Наименование: Круассан с курицей
+Картинка: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7ggBfjSd8lqBNflb-P4Zq6JFRVPFonxlMQ&s
+Цена: 1950
+
+Наименование: Круассан с семгой
+Картинка: https://ecomarket.ru/imgs/products/18147/kruassan-s-semgoy-1.jpg
+Цена: 2250
+
+Наименование: Панини с индейкой
+Картинка: https://grandkulinar.ru/uploads/posts/2012-11/1353989945_panini-s-indeykoy-salatom-romen.jpg
+Цена: 1950
+
+Наименование: Черный бургер
+Картинка: https://buloshnaya.org/wp-content/uploads/2018/07/черный-бургер2.jpg
+Цена: 3000
+
+Наименование: Десерты
+Картинка: 
+Цена: 
+
+Наименование: Тирамису классика
+Картинка: https://vkusvill.ru/upload/resize/667645/tiramisu-klassicheskiy_588x409x90_c.webp
+Цена: 2900
+
+Наименование: Тирамису фисташка
+Картинка: https://ic.pics.livejournal.com/anti_pasto/76822948/26506/26506_900.jpg
+Цена: 3000
+
+Наименование: Панна-котта
+Картинка: https://dikoed.ru/upload/iblock/74e/15598-klubnichnaya-panna-kotta.jpg
+Цена: 2550
+
+Наименование: "Павлова"
+Картинка: https://pteat.ru/wp-content/uploads/2022/06/MG_9129-1.jpg
+Цена: 2750

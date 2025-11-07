@@ -18,6 +18,8 @@ export interface Product {
     price: number
     image?: string
     description?: string
+    priceLabel?: string
+    available?: boolean
     variants?: ProductVariant[]
 }
 

@@ -422,12 +422,25 @@ function ProductCard({
     const description = product.description ?? subcategoryName ?? categoryName
     const variants = product.variants ?? []
     const hasVariants = variants.length > 0
-    const basePrice = hasVariants
-        ? Math.min(...variants.map((variant) => variant.price))
-        : product.price
-    const priceLabel = `${hasVariants ? "от " : ""}${currencyFormatter.format(
-        basePrice
-    )} ₸`
+    const variantPrices = variants
+        .map((variant) => variant.price)
+        .filter((price) => typeof price === "number" && price > 0)
+    const baseVariantPrice = variantPrices.length
+        ? Math.min(...variantPrices)
+        : undefined
+    const hasPositivePrice = product.price > 0
+    const computedPriceLabel =
+        product.priceLabel ??
+        (hasVariants
+            ? variantPrices.length
+                ? `от ${currencyFormatter.format(baseVariantPrice ?? 0)} ₸`
+                : "—"
+            : hasPositivePrice
+              ? `${currencyFormatter.format(product.price)} ₸`
+              : "—")
+    const canAddToCart =
+        product.available !== false &&
+        (hasVariants ? variantPrices.length > 0 : hasPositivePrice)
     const imageSrc =
         product.image ??
         resolveProductImage({
@@ -437,6 +450,10 @@ function ProductCard({
         })
 
     const handleQuickAdd = () => {
+        if (!canAddToCart) {
+            return
+        }
+
         if (hasVariants) {
             onPreview?.(product)
             return
@@ -473,7 +490,7 @@ function ProductCard({
                         ) : null}
                     </div>
                     <Badge>
-                        {priceLabel}
+                        {computedPriceLabel}
                     </Badge>
                 </div>
 
@@ -487,10 +504,15 @@ function ProductCard({
                             Подробнее
                         </Button>
                         <Button
+                            disabled={!canAddToCart}
                             onClick={handleQuickAdd}
                             className="rounded-full"
                         >
-                            {hasVariants ? "Выбрать" : "В корзину"}
+                            {canAddToCart
+                                ? hasVariants
+                                    ? "Выбрать"
+                                    : "В корзину"
+                                : "Недоступно"}
                         </Button>
                     </div>
                 </div>
@@ -542,17 +564,39 @@ function ProductDetailsOverlay({
         return null
     }
 
-    const activeVariant = variants.find(
-        (variant) => variant.id === selectedVariantId
-    )
-
-    const priceLabel = `${currencyFormatter.format(
-        activeVariant?.price ?? product.price
-    )} ₸`
+    const activeVariant = variants.find((variant) => variant.id === selectedVariantId)
+    const variantPrices = variants
+        .map((variant) => variant.price)
+        .filter((price) => typeof price === "number" && price > 0)
+    const activeVariantPrice =
+        typeof activeVariant?.price === "number" && activeVariant.price > 0
+            ? activeVariant.price
+            : undefined
+    const hasPositiveBasePrice = product.price > 0
+    const fallbackVariantLabel =
+        variantPrices.length > 0
+            ? `от ${currencyFormatter.format(Math.min(...variantPrices))} ₸`
+            : "—"
+    const priceLabel =
+        product.priceLabel ??
+        (activeVariantPrice
+            ? `${currencyFormatter.format(activeVariantPrice)} ₸`
+            : variants.length
+              ? fallbackVariantLabel
+              : hasPositiveBasePrice
+                ? `${currencyFormatter.format(product.price)} ₸`
+                : "—")
     const description = product.description ?? subcategoryName ?? categoryName
     const variantDescription = activeVariant?.description
+    const canAddToCart =
+        product.available !== false &&
+        (variants.length ? !!activeVariantPrice : hasPositiveBasePrice)
 
     const handleAddToCart = () => {
+        if (!canAddToCart) {
+            return
+        }
+
         addItem(product, activeVariant)
         onOpenChange(false)
     }
@@ -649,8 +693,9 @@ function ProductDetailsOverlay({
                 <Button
                     className="rounded-full bg-primary shadow-md shadow-primary/25 hover:shadow-lg hover:shadow-primary/30"
                     onClick={handleAddToCart}
+                    disabled={!canAddToCart}
                 >
-                    Добавить в корзину
+                    {canAddToCart ? "Добавить в корзину" : "Недоступно"}
                 </Button>
             </div>
         </div>
