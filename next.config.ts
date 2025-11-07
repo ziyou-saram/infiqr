@@ -1,11 +1,5 @@
 import type { NextConfig } from "next"
-
-type ImageRemotePattern = {
-    protocol?: "http" | "https"
-    hostname: string
-    port?: string
-    pathname?: string
-}
+import type { RemotePattern } from "next/dist/shared/lib/image-config"
 
 function parseHostname(input: string): string | null {
     const trimmed = input.trim()
@@ -34,7 +28,7 @@ function normalisePathname(pathname: string) {
     return cleaned.endsWith("**") ? cleaned : `${cleaned}/**`
 }
 
-function parseRemotePattern(input: string): ImageRemotePattern | null {
+function parseRemotePattern(input: string): RemotePattern | null {
     const trimmed = input.trim()
 
     if (!trimmed) {
@@ -125,14 +119,17 @@ const envHostnames =
         .map(parseHostname)
         .filter((hostname): hostname is string => Boolean(hostname)) ?? []
 
-const imageDomains = Array.from(new Set([...staticImageHosts, ...envHostnames]))
+const allImageDomains = Array.from(new Set([...staticImageHosts, ...envHostnames]))
+const MAX_DOMAIN_ENTRIES = 50
+const primaryDomains = allImageDomains.slice(0, MAX_DOMAIN_ENTRIES)
+const overflowDomains = allImageDomains.slice(MAX_DOMAIN_ENTRIES)
 
-const envRemotePatterns =
+const envRemotePatterns: RemotePattern[] =
     process.env.NEXT_IMAGE_HOSTS?.split(",")
         .map(parseRemotePattern)
-        .filter((pattern): pattern is ImageRemotePattern => pattern !== null) ?? []
+        .filter((pattern): pattern is RemotePattern => pattern !== null) ?? []
 
-const defaultRemotePatterns: ImageRemotePattern[] = [
+const defaultRemotePatterns: RemotePattern[] = [
     {
         protocol: "https",
         hostname: "loremflickr.com",
@@ -142,8 +139,16 @@ const defaultRemotePatterns: ImageRemotePattern[] = [
 
 const nextConfig: NextConfig = {
     images: {
-        domains: imageDomains,
-        remotePatterns: [...envRemotePatterns, ...defaultRemotePatterns],
+        domains: primaryDomains,
+        remotePatterns: [
+            ...envRemotePatterns,
+            ...overflowDomains.map<RemotePattern>((hostname) => ({
+                protocol: "https",
+                hostname,
+                pathname: "/**",
+            })),
+            ...defaultRemotePatterns,
+        ],
     },
 }
 
