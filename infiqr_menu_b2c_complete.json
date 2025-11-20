@@ -1,0 +1,968 @@
+[
+  {
+    "category": "Алкоголь",
+    "subcategories": [
+      {
+        "name": "Вино",
+        "types": [
+          {
+            "name": "Красное",
+            "items": [
+              {
+                "name": "Niko Pirosmani Киндзмараули",
+                "price": "",
+                "image": []
+              },
+              {
+                "name": "Jacob's Creek Shiraz Cabernet",
+                "price": "",
+                "image": []
+              },
+              {
+                "name": "Brancott Estate Pinot Noir",
+                "price": "18000",
+                "image": []
+              }
+            ]
+          },
+          {
+            "name": "Белое",
+            "items": [
+              {
+                "name": "Pavao Loureiro",
+                "price": "",
+                "image": []
+              },
+              {
+                "name": "Campo Viejo Blanco",
+                "price": "14000",
+                "image": []
+              },
+              {
+                "name": "Jacob's Creek Classic Chardonnay",
+                "price": "12000",
+                "image": []
+              }
+            ]
+          },
+          {
+            "name": "Розовое",
+            "items": [
+              {
+                "name": "Campo Viejo Rosé",
+                "price": "15000",
+                "image": []
+              }
+            ]
+          },
+          {
+            "name": "Игристое",
+            "items": [
+              {
+                "name": "Lambrusco Bianco/Rossato",
+                "price": "",
+                "image": []
+              },
+              {
+                "name": "Prosecco Martini",
+                "price": "",
+                "image": []
+              },
+              {
+                "name": "Asti Martini Ice/Rose",
+                "price": "",
+                "image": []
+              },
+              {
+                "name": "Café de Paris Brut/Rose",
+                "price": "16500"
+              }
+            ]
+          }
+        ],
+        "items": [],
+        "order": 1
+      },
+      {
+        "name": "Виски",
+        "items": [
+          {
+            "name": "Ballantine’s Finest 3YO",
+            "price": "1900",
+            "image": []
+          },
+          {
+            "name": "Jameson",
+            "price": "2300",
+            "image": []
+          },
+          {
+            "name": "Jack Daniels",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Jack Daniels Honey",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Jack Daniels Fire",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Glenfiddich 12YO",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Chivas Regal 12YO",
+            "price": "3400",
+            "image": []
+          },
+          {
+            "name": "Chivas Regal 18YO",
+            "price": "4700",
+            "image": []
+          },
+          {
+            "name": "Glenlivet Reserve",
+            "price": "4100",
+            "image": []
+          },
+          {
+            "name": "Glenlivet 12YO",
+            "price": "4500",
+            "image": []
+          }
+        ],
+        "order": 2
+      },
+      {
+        "name": "Ром",
+        "items": [
+          {
+            "name": "Havana Club 3YO",
+            "price": "1690",
+            "image": []
+          },
+          {
+            "name": "Bacardi Carta Blanca/Negra",
+            "price": "1890",
+            "image": []
+          }
+        ],
+        "order": 3
+      },
+      {
+        "name": "Джин",
+        "items": [
+          {
+            "name": "Gordon’s London Dry",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Beefeater",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Bombay Sapphire",
+            "price": "",
+            "image": []
+          }
+        ],
+        "order": 4
+      },
+      {
+        "name": "Текила",
+        "items": [
+          {
+            "name": "Olmeca Silver",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Olmeca Gold",
+            "price": "",
+            "image": []
+          }
+        ],
+        "order": 5
+      },
+      {
+        "name": "Бренди / Коньяк",
+        "items": [
+          {
+            "name": "Ararat 3–5 лет",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Hennessy VS",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Martell V.S",
+            "price": "3300",
+            "image": []
+          }
+        ],
+        "order": 6
+      },
+      {
+        "name": "Вермуты",
+        "items": [
+          {
+            "name": "Martini Bianco",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Martini Extra Dry",
+            "price": "",
+            "image": []
+          }
+        ],
+        "order": 7
+      },
+      {
+        "name": "Настойки",
+        "items": [
+          {
+            "name": "Jägermeister",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Aperol",
+            "price": "",
+            "image": []
+          }
+        ],
+        "order": 8
+      },
+      {
+        "name": "Водка",
+        "items": [
+          {
+            "name": "Finlandia",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Absolut",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Grey Goose",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Kyzyljar 50 мл",
+            "price": "1100",
+            "image": []
+          },
+          {
+            "name": "Kazakhstan 3YO 50 мл",
+            "price": "1400",
+            "image": []
+          },
+          {
+            "name": "Absolut Blue 50 мл",
+            "price": "1500",
+            "image": []
+          },
+          {
+            "name": "Grey Goose 50 мл",
+            "price": "",
+            "image": []
+          }
+        ],
+        "order": 9
+      },
+      {
+        "name": "Пиво",
+        "items": [
+          {
+            "name": "Budweiser Budvar",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Miller 0.5",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Heineken",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Guinness Draught",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Corona Extra 0.355",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Kozel",
+            "price": "",
+            "image": []
+          }
+        ],
+        "order": 10
+      },
+      {
+        "name": "Алкогольные коктейли",
+        "items": [
+          {
+            "name": "Cuba Libre",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Gin Tonic",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Aperol Spritz",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Tequila Sunrise",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Vodka Red Bull",
+            "price": "",
+            "image": []
+          }
+        ],
+        "order": 11
+      }
+    ],
+    "order": 9
+  },
+  {
+    "category": "Кофе и чай",
+    "subcategories": [
+      {
+        "name": "Кофе горячий",
+        "items": [
+          {
+            "name": "Эспрессо",
+            "price": "790",
+            "image": []
+          },
+          {
+            "name": "Американо",
+            "price": "990",
+            "image": []
+          },
+          {
+            "name": "Капучино",
+            "price": "1290",
+            "image": []
+          },
+          {
+            "name": "Латте",
+            "price": "1390",
+            "image": []
+          },
+          {
+            "name": "Флэт Уайт",
+            "price": "1390",
+            "image": []
+          },
+          {
+            "name": "Раф",
+            "price": "1390",
+            "image": []
+          },
+          {
+            "name": "Горячий шоколад",
+            "price": "",
+            "image": []
+          }
+        ],
+        "order": 1
+      },
+      {
+        "name": "Кофе холодный",
+        "items": [
+          {
+            "name": "Эспрессо Тоник",
+            "price": "1690",
+            "image": []
+          },
+          {
+            "name": "Айс Капучино",
+            "price": "1290",
+            "image": []
+          },
+          {
+            "name": "Айс Латте",
+            "price": "1390",
+            "image": []
+          },
+          {
+            "name": "Фраппучино",
+            "price": "1790",
+            "image": []
+          }
+        ],
+        "order": 2
+      },
+      {
+        "name": "Чай классический",
+        "items": [
+          {
+            "name": "Чёрный чай (0.25/0.7)",
+            "price": "300/800",
+            "image": []
+          },
+          {
+            "name": "Зелёный чай (0.25/0.7)",
+            "price": "300/800",
+            "image": []
+          }
+        ],
+        "order": 3
+      },
+      {
+        "name": "Чай авторский",
+        "items": [
+          {
+            "name": "Марокканский",
+            "price": "2200",
+            "image": []
+          },
+          {
+            "name": "Ташкентский",
+            "price": "2200",
+            "image": []
+          },
+          {
+            "name": "Ягодный",
+            "price": "2200",
+            "image": []
+          },
+          {
+            "name": "Малина-имбирь",
+            "price": "2200",
+            "image": []
+          },
+          {
+            "name": "Облепиха-апельсин",
+            "price": "2200",
+            "image": []
+          },
+          {
+            "name": "Киви/лайм",
+            "price": "3000",
+            "image": []
+          },
+          {
+            "name": "Манго/маракуйя",
+            "price": "3000",
+            "image": []
+          },
+          {
+            "name": "Чай с тары",
+            "price": "2200",
+            "image": []
+          }
+        ],
+        "order": 4
+      }
+    ],
+    "order": 8
+  },
+  {
+    "category": "Напитки",
+    "subcategories": [
+      {
+        "name": "Лимонады",
+        "items": [
+          {
+            "name": "Лимонад 1л",
+            "price": "",
+            "image": []
+          }
+        ],
+        "order": 1
+      },
+      {
+        "name": "Соки",
+        "items": [
+          {
+            "name": "Сок яблоко",
+            "price": "900/2000",
+            "image": []
+          },
+          {
+            "name": "Сок апельсин",
+            "price": "900/2000",
+            "image": []
+          },
+          {
+            "name": "Сок вишня",
+            "price": "900/2000",
+            "image": []
+          },
+          {
+            "name": "Сок ананас",
+            "price": "900/2000",
+            "image": []
+          }
+        ],
+        "order": 2
+      },
+      {
+        "name": "Газированные напитки",
+        "items": [
+          {
+            "name": "Coca-Cola / Sprite / Fanta",
+            "price": "1200",
+            "image": []
+          },
+          {
+            "name": "Red Bull",
+            "price": "1500",
+            "image": []
+          },
+          {
+            "name": "Shweppes",
+            "price": "1300",
+            "image": []
+          }
+        ],
+        "order": 3
+      },
+      {
+        "name": "Вода",
+        "items": [
+          {
+            "name": "Минеральная вода 0.5л",
+            "price": "600",
+            "image": []
+          },
+          {
+            "name": "Минеральная вода 1л",
+            "price": "800",
+            "image": []
+          },
+          {
+            "name": "Боржоми",
+            "price": "1600",
+            "image": []
+          }
+        ],
+        "order": 4
+      },
+      {
+        "name": "Милкшейки",
+        "items": [
+          {
+            "name": "Ванильный",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Шоколадный",
+            "price": "",
+            "image": []
+          },
+          {
+            "name": "Клубничный",
+            "price": "",
+            "image": []
+          }
+        ],
+        "order": 5
+      }
+    ],
+    "order": 7
+  },
+  {
+    "category": "Салаты",
+    "subcategories": [
+      {
+        "name": "Классические",
+        "items": [
+          {
+            "name": "Хрустящие баклажаны",
+            "price": "3500",
+            "image": []
+          },
+          {
+            "name": "Микс-салат с запечёнными овощами с твороженным сыром и апельсином",
+            "price": "3800",
+            "image": []
+          },
+          {
+            "name": "Греческий с фирменной заправкой",
+            "price": "3500",
+            "image": []
+          }
+        ],
+        "order": 1
+      },
+      {
+        "name": "Мясные",
+        "items": [
+          {
+            "name": "Тёплый салат из телятины",
+            "price": "4000",
+            "image": []
+          },
+          {
+            "name": "Цезарь с курицей",
+            "price": "3600",
+            "image": []
+          }
+        ],
+        "order": 2
+      },
+      {
+        "name": "Морепродукты",
+        "items": [
+          {
+            "name": "С рукколой, креветками и кремом из авокадо",
+            "price": "3900",
+            "image": []
+          },
+          {
+            "name": "Цезарь с лососем",
+            "price": "4000",
+            "image": []
+          }
+        ],
+        "order": 3
+      }
+    ],
+    "order": 1
+  },
+  {
+    "category": "Закуски",
+    "subcategories": [
+      {
+        "name": "Курица / мясо",
+        "items": [
+          {
+            "name": "Крылья с соусом BBQ",
+            "price": "3500",
+            "image": []
+          },
+          {
+            "name": "Колбаски с капустой и горчицей (говядина, баранина, конина, курица)",
+            "price": "3900",
+            "image": []
+          }
+        ],
+        "order": 1
+      },
+      {
+        "name": "Морепродукты",
+        "items": [
+          {
+            "name": "Лосось собственного посола с манго и авокадо",
+            "price": "4200",
+            "image": []
+          },
+          {
+            "name": "Креветки жаренные в пикантном соусе",
+            "price": "4600",
+            "image": []
+          },
+          {
+            "name": "Мидии в створках под сливочным соусом",
+            "price": "4900",
+            "image": []
+          }
+        ],
+        "order": 2
+      },
+      {
+        "name": "Сеты",
+        "items": [
+          {
+            "name": "Сет к пенному (5–6 чел)",
+            "price": "19000",
+            "image": []
+          },
+          {
+            "name": "Мини-сет к пенному (2 чел)",
+            "price": "8000",
+            "image": []
+          }
+        ],
+        "order": 3
+      }
+    ],
+    "order": 10
+  },
+  {
+    "category": "Супы",
+    "subcategories": [
+      {
+        "name": "Азиатские",
+        "items": [
+          {
+            "name": "Том-ям с морепродуктами",
+            "price": "4300",
+            "image": []
+          },
+          {
+            "name": "Рамен (говядина / курица)",
+            "price": "3600",
+            "image": []
+          }
+        ],
+        "order": 1
+      },
+      {
+        "name": "Классические",
+        "items": [
+          {
+            "name": "Солянка сборная мясная",
+            "price": "3900",
+            "image": []
+          },
+          {
+            "name": "Крем-суп чечевичный",
+            "price": "3200",
+            "image": []
+          },
+          {
+            "name": "Крем-суп «Капучино» грибной",
+            "price": "3400",
+            "image": []
+          }
+        ],
+        "order": 2
+      }
+    ],
+    "order": 2
+  },
+  {
+    "category": "Вторые блюда",
+    "subcategories": [
+      {
+        "name": "Рыба / мясо",
+        "items": [
+          {
+            "name": "Стейк из лосося",
+            "price": "7500",
+            "image": []
+          },
+          {
+            "name": "Рибай",
+            "price": "8000",
+            "image": []
+          },
+          {
+            "name": "Ростбиф с клюквенным соусом",
+            "price": "7500",
+            "image": []
+          }
+        ],
+        "order": 1
+      },
+      {
+        "name": "Паста",
+        "items": [
+          {
+            "name": "Феттучини с морепродуктами",
+            "price": "5500",
+            "image": []
+          },
+          {
+            "name": "Карбонара",
+            "price": "4500",
+            "image": []
+          },
+          {
+            "name": "Паста Альфредо",
+            "price": "4300",
+            "image": []
+          }
+        ],
+        "order": 2
+      },
+      {
+        "name": "Азиатские",
+        "items": [
+          {
+            "name": "Пад тай (рис, овощи, говядина)",
+            "price": "4500",
+            "image": []
+          },
+          {
+            "name": "Вок удон (курица)",
+            "price": "3800",
+            "image": []
+          },
+          {
+            "name": "Вок удон (говядина)",
+            "price": "4000",
+            "image": []
+          }
+        ],
+        "order": 3
+      },
+      {
+        "name": "Национальные",
+        "items": [
+          {
+            "name": "Манты рубленые",
+            "price": "4500",
+            "image": []
+          }
+        ],
+        "order": 4
+      }
+    ],
+    "order": 3
+  },
+  {
+    "category": "Выпечка / Сэндвичи",
+    "subcategories": [
+      {
+        "name": "Горячие блюда",
+        "items": [
+          {
+            "name": "Кесадилья с курицей",
+            "price": "1950",
+            "image": []
+          },
+          {
+            "name": "Клаб-сэндвич с курицей",
+            "price": "1950",
+            "image": []
+          },
+          {
+            "name": "Круассан с курицей",
+            "price": "1950",
+            "image": []
+          },
+          {
+            "name": "Круассан с семгой",
+            "price": "2250",
+            "image": []
+          },
+          {
+            "name": "Панини с индейкой",
+            "price": "1950",
+            "image": []
+          },
+          {
+            "name": "Чёрный бургер",
+            "price": "3000",
+            "image": []
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "order": 4
+  },
+  {
+    "category": "Десерты",
+    "subcategories": [
+      {
+        "name": "Классические",
+        "items": [
+          {
+            "name": "Тирамису классика",
+            "price": "2400",
+            "image": []
+          },
+          {
+            "name": "Тирамису фисташка",
+            "price": "2500",
+            "image": []
+          },
+          {
+            "name": "Панна-котта",
+            "price": "2000",
+            "image": []
+          },
+          {
+            "name": "Павлова",
+            "price": "2750",
+            "image": []
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "order": 5
+  },
+  {
+    "category": "Снеки / Дополнительно",
+    "subcategories": [
+      {
+        "name": "Снеки",
+        "items": [
+          {
+            "name": "Арахис",
+            "price": "1400",
+            "image": []
+          },
+          {
+            "name": "Фисташки",
+            "price": "1400",
+            "image": []
+          },
+          {
+            "name": "Чечил",
+            "price": "1400",
+            "image": []
+          },
+          {
+            "name": "Чипсы Lay’s",
+            "price": "1400",
+            "image": []
+          }
+        ],
+        "order": 1
+      },
+      {
+        "name": "Добавки",
+        "items": [
+          {
+            "name": "Молоко",
+            "price": "200",
+            "image": []
+          },
+          {
+            "name": "Лимон",
+            "price": "200",
+            "image": []
+          },
+          {
+            "name": "Сироп (в ассортименте)",
+            "price": "150",
+            "image": []
+          }
+        ],
+        "order": 2
+      }
+    ],
+    "order": 6
+  }
+]
